@@ -17,7 +17,6 @@ const typeWriterFunc = function(inputSentence) {
       } else {
         counter += 1;
       }
-
     }
 
     // increase counter whether char or space
